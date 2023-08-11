@@ -1,3 +1,5 @@
+<img src="file:///D:/Yeni%20klas%C3%B6r/Console.WriteLine(Hi,%20I'm%20Celal)%3B.gif" width="auto">
+
 ### Hi there 👋
 
 - 👨‍💻 I’m Celal Kaynar
