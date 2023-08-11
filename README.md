@@ -1,4 +1,4 @@
-<img src="https://github.com/celallkaynar/celallkaynar/blob/main/Console.WriteLine(Hi%2C%20I'm%20Celal)%3B.gif" width="auto">
+<img src="https://github.com/celallkaynar/celallkaynar/blob/main/Console.WriteLine(Hi%2C%20I'm%20Celal)%3B%20(1).gif" width="auto">
 
 ### Hi there 👋
 
